@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Tim Song's Portfolio
 
-You can use the [editor on GitHub](https://github.com/timosong/timosong.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The source code and readme for all figures found at [my ngstools github page]https://github.com/timosong/ngstools)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
