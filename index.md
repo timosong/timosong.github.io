@@ -1,6 +1,6 @@
 ## Tim Song's Portfolio
 
-The source code and readme for all figures found at [my ngstools github page]https://github.com/timosong/ngstools)
+The source code and readme for all figures found at [my ngstools github page](https://github.com/timosong/ngstools)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
