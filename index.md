@@ -1,4 +1,4 @@
-## Tim Song's Portfolio
+## timosong
 
 The source code and readme for all figures found at [my ngstools github page](https://github.com/timosong/ngstools)
 
